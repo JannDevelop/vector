@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508066845399",
+    "project_id": "vector-dee4b",
+    "storage_bucket": "vector-dee4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508066845399:android:7c00558a1aa2c6e453d692",
+        "android_client_info": {
+          "package_name": "com.example.vector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9PDci4np4GxtxxiLM3TGJebK6NBEylJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
