@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyArlukPCYMzpcWCjRDuLUSag3Nxmmgyksk',
+    apiKey: '',
     appId: '1:508066845399:web:6260bbb8379a94b653d692',
     messagingSenderId: '508066845399',
     projectId: 'vector-dee4b',
